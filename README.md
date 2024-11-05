@@ -1,1 +1,1 @@
-# IMAGE-RECOGNITION-machine-learning-for-CodeAlpha-
+# machine-learning-for-CodeAlpha-
